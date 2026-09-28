@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Valerii Havronskyi",
+      "email": "valerii@example.com",
+      "course": 3
+    },
+    {
+      "id": 2,
+      "name": "Andrii Kovalenko",
+      "email": "andrii@example.com",
+      "course": 2
+    },
+    {
+      "id": 3,
+      "name": "Maksym Shevchenko",
+      "email": "maksym@example.com",
+      "course": 3
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "REST API Project",
+      "studentId": 1,
+      "category": "web"
+    },
+    {
+      "id": 2,
+      "title": "Database Manager",
+      "studentId": 2,
+      "category": "database"
+    },
+    {
+      "id": 3,
+      "title": "CSharp Desktop App",
+      "studentId": 1,
+      "category": "desktop"
+    },
+    {
+      "id": 4,
+      "title": "Arduino Weather Station",
+      "studentId": 3,
+      "category": "hardware"
+    }
+  ]
+}
